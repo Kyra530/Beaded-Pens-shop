@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rose Gold Elegance",
+      "price": 18.00,
+      "description": "Warm rose gold beads with crystal accents.",
+      "details": "Handcrafted beaded pen with rose gold hardware.",
+      "image": "/images/rose-gold.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ocean Breeze",
+      "price": 20.00,
+      "description": "Teal and silver beads inspired by the sea.",
+      "details": "Perfect for beach lovers and journalers.",
+      "image": "/images/ocean-breeze.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Midnight Galaxy",
+      "price": 22.00,
+      "description": "Deep navy beads with shimmering stars.",
+      "details": "Dark beads with metallic accents.",
+      "image": "/images/midnight-galaxy.jpg"
+    }
+  ],
+  "orders": []
+}
